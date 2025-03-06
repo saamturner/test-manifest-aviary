@@ -18,8 +18,8 @@
     "auto_populate_home_page": true,
     "additional_users": [
       {
-        "login_name": "absempere",
-        "avatar_url": "https://avatars.githubusercontent.com/u/38816173?v=4",
+        "login_name": "lwjameson",
+        "avatar_url": "https://avatars.githubusercontent.com/u/17829439?v=4",
         "admin": false
       }
     ],
@@ -28,7 +28,7 @@
       "tags": []
     },
     "created_at": "2025-03-06T19:48:51.928Z",
-    "updated_at": "2025-03-06T19:52:41.094Z",
+    "updated_at": "2025-03-06T19:56:06.443Z",
     "generate_pages_site": true
   },
   "is_private": false
