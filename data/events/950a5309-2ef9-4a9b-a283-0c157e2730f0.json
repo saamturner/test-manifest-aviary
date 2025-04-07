@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "5137e52b-2eb1-4a50-8f07-54270270a8f1": {
+      "label": "AV File 5",
+      "file_url": "https://aviary-p-fortunoff.s3.wasabisys.com/collection_resource_files/resource_files/000/075/154/original/open-uri20200406-773-a2592g.mov?1586172468",
+      "duration": 878.04
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-04-07T20:39:29.742Z",
+  "created_by": "tanyaclement",
+  "item_type": "Video",
+  "label": "Henryk P. Holocaust testimony",
+  "updated_at": "2025-04-07T20:39:29.742Z",
+  "updated_by": "tanyaclement"
+}
