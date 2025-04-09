@@ -4,9 +4,25 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "tanyaclement",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1213771?v=4",
+      "admin": false
+    },
+    {
+      "login_name": "absempere",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38816173?v=4",
+      "admin": false
+    },
+    {
+      "login_name": "saamturner",
+      "avatar_url": "https://avatars.githubusercontent.com/u/157153031?v=4",
+      "admin": true
+    }
+  ],
   "project": {
-    "github_org": "tanyaclement",
+    "github_org": "saamturner",
     "is_private": false,
     "title": "Testing aviary manifest",
     "description": "testing aviary manifest",
